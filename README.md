@@ -13,7 +13,7 @@ These Social Accounting Matrices (SAM) were created from the following Statistic
 
 In total, there are 857 accounts and their aggregation is the most granular available, which is the **detail level**.
 
-The balancing of tables is done using linear programming, which modifies the inter-agent transfers so that all of the accounts are balanced. The procedure code for creating these table will be posted later on.
+The balancing of tables is done using linear programming, which modifies the inter-agent transfers so that all of the accounts are balanced, so there is minimal table intervention. The procedure and code for creating these tables will be posted later on.
 
 A high-level diagram of how these accounts relate to each other is the following:
 ![image](https://github.com/jorge-antares/SAMCanada/blob/main/img/diagram.png?raw=true)
