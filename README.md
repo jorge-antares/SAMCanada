@@ -1,4 +1,4 @@
-# SAM Canada #
+# SAM - Canada #
 These Social Accounting Matrices (SAM) were created following the System of National Accounts of Canada and from the following Statistics Canada sources:
 * Table 36-10-0111-01: Current and capital accounts - National, Canada, quarterly, 1961-2020.
 * Table 36-10-0112-01: Current and capital accounts - Households, Canada, quarterly, 1961-2020.
