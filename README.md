@@ -11,4 +11,8 @@ These Social Accounting Matrices (SAM) were created following the System of Nati
 * Table 36-10-0438-01: Supply and use tables, summary level, provincial and territorial, 2010-2016.
 * Table 36-10-0578-01: Financial Flow Accounts, 1990-2020.
 
-The aggregation of accounts is the most granular available, which is the detail level.
+The aggregation of accounts is the most granular available, which is the **detail level**.
+
+The balancing of tables is done using linear programming.
+
+![image](https://github.com/jorge-antares/SAMCanada/blob/main/img/diagram.png?raw=true)
