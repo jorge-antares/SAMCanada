@@ -1,0 +1,858 @@
+,Account,MacroAccount,Description
+0,C002,COMMODITY,Canola (including rapeseed)
+1,C003,COMMODITY,Oilseeds (except canola)
+2,C004,COMMODITY,Wheat
+3,C005,COMMODITY,Grains (except wheat)
+4,C006,COMMODITY,Fresh potatoes
+5,C007,COMMODITY,Fruits and tree nuts
+6,C008,COMMODITY,Other crop products
+7,C009,COMMODITY,Fresh vegetables (except potatoes)
+8,C010,COMMODITY,Imputed feed (animal feed produced for own consumption)
+9,C011,COMMODITY,Nursery and floriculture products (except cannabis)
+10,C012,COMMODITY,Cattle and calves
+11,C013,COMMODITY,Unprocessed fluid milk
+12,C014,COMMODITY,Hogs
+13,C015,COMMODITY,Eggs in shell
+14,C016,COMMODITY,Poultry
+15,C017,COMMODITY,Other live animals
+16,C018,COMMODITY,"Raw furskins, and animal products n.e.c."
+17,C019,COMMODITY,Imputed fertilizer (fertilizer produced for own consumption)
+18,C020,COMMODITY,Logs and bolts
+19,C021,COMMODITY,Pulpwood
+20,C022,COMMODITY,Fuel wood
+21,C023,COMMODITY,"Rough untreated poles, posts and piling"
+22,C024,COMMODITY,"Fish, crustaceans, shellfish and other fishery products"
+23,C025,COMMODITY,Custom work services for forestry
+24,C026,COMMODITY,Support services for crop production
+25,C027,COMMODITY,"Support services for animal production, hunting and fishing"
+26,C028,COMMODITY,Support services for forestry
+27,C029,COMMODITY,Conventional and synthetic crude oil
+28,C030,COMMODITY,Natural gas
+29,C031,COMMODITY,Natural gas liquids and related products
+30,C032,COMMODITY,Crude and diluted bitumen
+31,C033,COMMODITY,Coal
+32,C034,COMMODITY,Iron ores and concentrates
+33,C035,COMMODITY,Gold and silver ores and concentrates
+34,C038,COMMODITY,Stone
+35,C039,COMMODITY,"Sand, gravel, clay, and refractory minerals"
+36,C040,COMMODITY,Uncut and industrial diamonds
+37,C041,COMMODITY,Potash
+38,C042,COMMODITY,Non-metallic minerals (except diamonds)
+39,C043,COMMODITY,Support services for oil and gas extraction (except exploration)
+40,C044,COMMODITY,Support services for mining and quarrying (except exploration)
+41,C045,COMMODITY,Mineral and oil and gas exploration
+42,C046,COMMODITY,Electricity
+43,C047,COMMODITY,Natural gas distribution
+44,C048,COMMODITY,Water delivered by water works and irrigation systems
+45,C049,COMMODITY,Sewage and dirty water disposal and cleaning services
+46,C050,COMMODITY,Steam and heated or cooled air or water
+47,C051,COMMODITY,Residential construction
+48,C052,COMMODITY,Industrial buildings
+49,C053,COMMODITY,Office buildings
+50,C054,COMMODITY,"Shopping centers, plazas, malls and stores"
+51,C055,COMMODITY,Other commercial buildings
+52,C056,COMMODITY,"Schools, colleges, universities and other educational buildings"
+53,C057,COMMODITY,Health care buildings
+54,C058,COMMODITY,Other institutional buildings
+55,C059,COMMODITY,"Highways, roads, streets, bridges and tunnels"
+56,C060,COMMODITY,Other transportation construction
+57,C061,COMMODITY,Production facilities in oil and gas extraction
+58,C062,COMMODITY,Other oil and gas engineering construction
+59,C063,COMMODITY,Electric power engineering construction
+60,C064,COMMODITY,Communication engineering construction
+61,C065,COMMODITY,Marine engineering construction
+62,C066,COMMODITY,Waterworks engineering construction
+63,C067,COMMODITY,Sewage engineering construction
+64,C068,COMMODITY,Mining engineering construction
+65,C069,COMMODITY,Other engineering construction
+66,C070,COMMODITY,Repair construction services
+67,C071,COMMODITY,Dog and cat food
+68,C072,COMMODITY,Other animal feed
+69,C073,COMMODITY,Flour and other grain mill products
+70,C074,COMMODITY,Margarine and cooking oils
+71,C075,COMMODITY,Breakfast cereal and other cereal products
+72,C076,COMMODITY,"Grain and oilseed products, not elsewhere classified"
+73,C077,COMMODITY,Sugar and sugar mill by-products
+74,C078,COMMODITY,Chocolate (except confectionery)
+75,C079,COMMODITY,Confectionery products
+76,C080,COMMODITY,"Fresh, frozen and canned fruit and vegetable juices"
+77,C081,COMMODITY,Preserved fruit and vegetables and frozen foods
+78,C082,COMMODITY,Processed fluid milk and milk products
+79,C083,COMMODITY,Cheese and cheese products
+80,C084,COMMODITY,Butter and dry and canned dairy products
+81,C085,COMMODITY,"Ice cream, sherbet and similar frozen desserts"
+82,C086,COMMODITY,Fresh and frozen beef and veal
+83,C087,COMMODITY,Fresh and frozen pork
+84,C088,COMMODITY,Fresh and frozen poultry of all types
+85,C089,COMMODITY,Fresh and frozen lamb and goat meat
+86,C090,COMMODITY,"Processed meat products, other miscellaneous meats and animal by-products"
+87,C091,COMMODITY,Prepared and packaged seafood products
+88,C092,COMMODITY,"Bread, rolls and flatbreads"
+89,C093,COMMODITY,"Cookies, crackers and baked sweet goods"
+90,C094,COMMODITY,"Flour mixes, dough and dry pasta"
+91,C095,COMMODITY,Snack food products
+92,C096,COMMODITY,Coffee and tea
+93,C097,COMMODITY,"Flavouring syrups, seasonings and dressings"
+94,C098,COMMODITY,"Other food products, n.e.c."
+95,C099,COMMODITY,"Bottled water, soft drinks and ice"
+96,C100,COMMODITY,Beer
+97,C101,COMMODITY,Wine and brandy
+98,C102,COMMODITY,Distilled liquor
+99,C104,COMMODITY,"Fibre, yarn and thread"
+100,C105,COMMODITY,Fabrics
+101,C106,COMMODITY,"Carpets, rugs and mats"
+102,C107,COMMODITY,Other textile furnishings
+103,C108,COMMODITY,"Textile products, n.e.c."
+104,C109,COMMODITY,Textile and fabric finishing and coating services
+105,C110,COMMODITY,"Men's, women's, boys' and girls' clothing"
+106,C111,COMMODITY,Infant clothing
+107,C112,COMMODITY,Clothing accessories
+108,C113,COMMODITY,Leather and dressed furs
+109,C114,COMMODITY,Footwear
+110,C115,COMMODITY,"Suitcases, handbags and other leather and allied products"
+111,C116,COMMODITY,Hardwood lumber
+112,C117,COMMODITY,Softwood lumber
+113,C118,COMMODITY,Wood chips
+114,C119,COMMODITY,Other sawmill products and treated wood products
+115,C120,COMMODITY,Veneer and plywood
+116,C121,COMMODITY,Wood trusses and engineered wood members
+117,C122,COMMODITY,Reconstituted wood products
+118,C123,COMMODITY,Wood windows and doors
+119,C124,COMMODITY,Other wood millwork products
+120,C125,COMMODITY,Wood containers and pallets
+121,C126,COMMODITY,"Prefabricated wood buildings, components and other miscellaneous wood products"
+122,C127,COMMODITY,Waste and scrap of wood and wood by-products
+123,C128,COMMODITY,Wood pulp
+124,C129,COMMODITY,Paper (except newsprint)
+125,C130,COMMODITY,Newsprint
+126,C131,COMMODITY,Paperboard
+127,C132,COMMODITY,Paperboard containers
+128,C133,COMMODITY,Paper office supplies
+129,C134,COMMODITY,Disposable diapers and feminine hygiene products
+130,C135,COMMODITY,Sanitary paper products
+131,C136,COMMODITY,Other converted paper products
+132,C137,COMMODITY,Waste and scrap of paper and paperboard
+133,C138,COMMODITY,Printed products
+134,C139,COMMODITY,Support services for printing
+135,C140,COMMODITY,Contract printing services for publishers
+136,C141,COMMODITY,Gasoline
+137,C142,COMMODITY,Diesel and biodiesel fuels
+138,C143,COMMODITY,Light fuel oils
+139,C144,COMMODITY,Jet fuel
+140,C145,COMMODITY,Heavy fuel oils
+141,C146,COMMODITY,Asphalt (except natural) and asphalt products
+142,C147,COMMODITY,Coke and other coke oven products
+143,C149,COMMODITY,Petrochemicals
+144,C150,COMMODITY,Industrial gases
+145,C151,COMMODITY,Dyes and pigments
+146,C152,COMMODITY,Other basic inorganic chemicals
+147,C153,COMMODITY,"Basic organic chemicals, n.e.c."
+148,C154,COMMODITY,Plastic resins
+149,C155,COMMODITY,Rubber and rubber compounds and mixtures
+150,C156,COMMODITY,Artificial and synthetic fibres and filaments
+151,C157,COMMODITY,Ammonia and chemical fertilizers
+152,C158,COMMODITY,Pesticides and other agricultural chemicals
+153,C159,COMMODITY,Pharmaceutical and medicinal products
+154,C160,COMMODITY,"Paints, coatings and adhesive products"
+155,C161,COMMODITY,Soaps and cleaning compounds
+156,C162,COMMODITY,Perfumes and toiletries
+157,C163,COMMODITY,"Chemical products, n.e.c."
+158,C164,COMMODITY,Plastic bags
+159,C165,COMMODITY,Plastic films and non-rigid sheets
+160,C166,COMMODITY,Plastic and foam building and construction materials
+161,C167,COMMODITY,Plastic profile shapes
+162,C168,COMMODITY,Foam products (except for construction)
+163,C169,COMMODITY,Plastic bottles
+164,C170,COMMODITY,Motor vehicle plastic parts
+165,C171,COMMODITY,"Plastic products, n.e.c."
+166,C172,COMMODITY,Tires
+167,C173,COMMODITY,Rubber and plastic hoses and belts
+168,C174,COMMODITY,"Rubber products, n.e.c."
+169,C175,COMMODITY,Waste and scrap of plastic and rubber
+170,C176,COMMODITY,Cement
+171,C177,COMMODITY,Ready-mixed concrete
+172,C178,COMMODITY,Concrete products
+173,C179,COMMODITY,Clay and ceramic products and refractories
+174,C180,COMMODITY,"Glass (including automotive), glass products and glass containers"
+175,C181,COMMODITY,Waste and scrap of glass
+176,C182,COMMODITY,Lime and gypsum products
+177,C183,COMMODITY,"Non-metallic mineral products, n.e.c."
+178,C184,COMMODITY,Iron and steel basic shapes and ferro-alloy products
+179,C185,COMMODITY,Iron and steel pipes and tubes (except castings)
+180,C186,COMMODITY,Wire and other rolled and drawn steel products
+181,C188,COMMODITY,Basic and semi-finished products of aluminum and alloys
+182,C191,COMMODITY,Basic and semi-finished products of non-ferrous metals and alloys (except aluminum)
+183,C192,COMMODITY,Ferrous metal castings
+184,C193,COMMODITY,Non-ferrous metal castings
+185,C194,COMMODITY,Waste and scrap of iron and steel
+186,C195,COMMODITY,Waste and scrap of non-ferrous metals
+187,C196,COMMODITY,Forged and stamped metal products
+188,C197,COMMODITY,Prefabricated metal buildings and components
+189,C198,COMMODITY,Fabricated steel plates and other fabricated structural metal
+190,C199,COMMODITY,Metal windows and doors
+191,C200,COMMODITY,Other ornamental and architectural metal products
+192,C201,COMMODITY,"Light gauge metal containers, crowns and closures"
+193,C202,COMMODITY,"Boilers, tanks and heavy gauge metal containers"
+194,C203,COMMODITY,"Builders, motor vehicle and other hardware"
+195,C204,COMMODITY,Springs and wire products
+196,C205,COMMODITY,Threaded metal fasteners and other turned metal products including automotive
+197,C206,COMMODITY,"Coating, engraving, heat treating and similar metal processing services"
+198,C207,COMMODITY,"Hand tools, kitchen utensils and cutlery (except precious metal)"
+199,C208,COMMODITY,Metal valves and pipe fittings
+200,C209,COMMODITY,Ball and roller bearings
+201,C210,COMMODITY,"Guns, ammunition and other munitions"
+202,C211,COMMODITY,"Fabricated metal products, not elsewhere classified"
+203,C212,COMMODITY,"Agricultural, lawn and garden machinery and equipment"
+204,C213,COMMODITY,"Logging, mining and construction machinery and equipment"
+205,C214,COMMODITY,Other industry-specific machinery
+206,C215,COMMODITY,Commercial and service industry machinery
+207,C216,COMMODITY,"Industrial and commercial fans, blowers and air purification equipment"
+208,C217,COMMODITY,Heating and cooling equipment (except household refrigerators and freezers)
+209,C218,COMMODITY,Metalworking machinery and industrial moulds
+210,C219,COMMODITY,"Turbines, turbine generators, and turbine generator sets"
+211,C220,COMMODITY,Other engine and power transmission equipment
+212,C221,COMMODITY,Pumps and compressors (except fluid power)
+213,C222,COMMODITY,Material handling equipment
+214,C223,COMMODITY,Other miscellaneous general-purpose machinery
+215,C224,COMMODITY,Parts of computers and computer peripheral (except printed circuit assemblies)
+216,C225,COMMODITY,Computers and computer peripheral equipment
+217,C226,COMMODITY,Telephone apparatus
+218,C227,COMMODITY,Other communications equipment
+219,C228,COMMODITY,Audio and video equipment and unrecorded media
+220,C229,COMMODITY,Navigational and guidance instruments
+221,C230,COMMODITY,"Measuring, medical and controlling devices"
+222,C231,COMMODITY,Unrecorded magnetic and optical recording media
+223,C232,COMMODITY,"Printed and integrated circuits, semiconductors and printed circuit assemblies"
+224,C233,COMMODITY,Other electronic components
+225,C234,COMMODITY,Electric light bulbs and tubes
+226,C235,COMMODITY,Lighting fixtures
+227,C236,COMMODITY,Small electric appliances
+228,C237,COMMODITY,Major appliances
+229,C238,COMMODITY,"Power, distribution and other transformers"
+230,C239,COMMODITY,Electric motors and generators
+231,C240,COMMODITY,"Switchgear, switchboards, relays and industrial control apparatus"
+232,C241,COMMODITY,Batteries
+233,C242,COMMODITY,Communication and electric wire and cable
+234,C243,COMMODITY,Wiring devices
+235,C244,COMMODITY,Other electrical equipment and components
+236,C245,COMMODITY,Passenger cars
+237,C246,COMMODITY,"Light-duty trucks, vans and sport utility vehicles (SUVs)"
+238,C247,COMMODITY,Medium and heavy-duty trucks and chassis
+239,C248,COMMODITY,Buses
+240,C249,COMMODITY,Motor vehicle bodies and special purpose motor vehicles
+241,C250,COMMODITY,Freight and utility trailers
+242,C251,COMMODITY,"Motor homes, travel trailers and camping trailers"
+243,C252,COMMODITY,Motor vehicle gasoline engines and engine parts
+244,C253,COMMODITY,Motor vehicle electrical and electronic equipment and instruments
+245,C254,COMMODITY,Motor vehicle steering and suspension components
+246,C255,COMMODITY,Motor vehicle brakes and brake systems
+247,C256,COMMODITY,Motor vehicle transmission and power train parts
+248,C257,COMMODITY,"Motor vehicle interior trim, seats and seat parts"
+249,C258,COMMODITY,Motor vehicle metal stamping
+250,C259,COMMODITY,Other miscellaneous motor vehicle parts
+251,C261,COMMODITY,Aircraft parts and other aerospace equipment
+252,C262,COMMODITY,"Locomotives, railway rolling stock, and rapid transit equipment"
+253,C263,COMMODITY,Parts of railway rolling stock
+254,C264,COMMODITY,Ships
+255,C265,COMMODITY,Boats and personal watercraft
+256,C266,COMMODITY,Other transportation equipment and related parts
+257,C267,COMMODITY,Wood kitchen cabinets and counter tops
+258,C268,COMMODITY,Household furniture
+259,C269,COMMODITY,"Institutional and other furniture, n.e.c."
+260,C270,COMMODITY,Office furniture
+261,C271,COMMODITY,Office and store fixtures
+262,C272,COMMODITY,Mattresses and foundations
+263,C273,COMMODITY,Blinds and shades
+264,C274,COMMODITY,"Medical, dental and personal safety supplies, instruments and equipment"
+265,C275,COMMODITY,Jewellery and silverware
+266,C276,COMMODITY,Sporting and athletic goods
+267,C277,COMMODITY,Toys and games
+268,C278,COMMODITY,Office supplies (except paper)
+269,C279,COMMODITY,Signs
+270,C280,COMMODITY,Other miscellaneous manufactured products
+271,C281,COMMODITY,"Custom work manufacturing services (except printing, finishing textiles and metals)"
+272,C282,COMMODITY,Wholesale margins
+273,C283,COMMODITY,Wholesale trade commissions
+274,C284,COMMODITY,Retail margins
+275,C285,COMMODITY,Used motor vehicles
+276,C286,COMMODITY,Other used consumer goods
+277,C287,COMMODITY,Retail trade commissions
+278,C288,COMMODITY,Air passenger transportation services
+279,C289,COMMODITY,Air freight transportation services
+280,C290,COMMODITY,Air specialty services
+281,C291,COMMODITY,Rail passenger transportation services
+282,C292,COMMODITY,Rail freight transportation services
+283,C293,COMMODITY,Water passenger transportation services
+284,C294,COMMODITY,Water freight transportation services
+285,C295,COMMODITY,Moving services
+286,C296,COMMODITY,General freight truck transportation services
+287,C297,COMMODITY,Specialized freight truck transportation services
+288,C298,COMMODITY,Urban transit services
+289,C299,COMMODITY,Interurban and rural bus passenger transportation services
+290,C300,COMMODITY,School bus services
+291,C301,COMMODITY,Other transit and passenger transportation services by road
+292,C302,COMMODITY,Scenic and sightseeing tour services
+293,C303,COMMODITY,Taxi and limousine services
+294,C304,COMMODITY,Transportation of natural gas by pipeline
+295,C305,COMMODITY,Transportation of crude oil and other commodities by pipeline
+296,C306,COMMODITY,Air transportation support services
+297,C307,COMMODITY,Aircraft maintenance and repair services
+298,C308,COMMODITY,"Rail transportation support, maintenance and repair services"
+299,C309,COMMODITY,"Water transportation support, maintenance and repair services"
+300,C310,COMMODITY,Road transportation support services
+301,C311,COMMODITY,Freight transportation arrangement and customs brokering services
+302,C312,COMMODITY,Other transportation support services
+303,C314,COMMODITY,Grain storage
+304,C315,COMMODITY,Warehousing and storage services (except grain storage)
+305,C316,COMMODITY,Newspapers
+306,C317,COMMODITY,Advertising space in printed newspapers
+307,C318,COMMODITY,Periodicals
+308,C319,COMMODITY,Books
+309,C320,COMMODITY,Other published products
+310,C321,COMMODITY,Advertising space in printed periodicals and in other printed publications
+311,C322,COMMODITY,"Licensing fees to distribute or reproduce published products, print and electronic"
+312,C323,COMMODITY,General purpose software
+313,C324,COMMODITY,"Recorded movies, television programs and videos"
+314,C325,COMMODITY,"Movie, television program and video production, post-production and editing services"
+315,C326,COMMODITY,Licensing of rights to use audiovisual works
+316,C327,COMMODITY,Admissions to motion picture film exhibitions
+317,C328,COMMODITY,Recorded music and other sound recordings
+318,C329,COMMODITY,Audio recording services and copyright administration
+319,C330,COMMODITY,Licensing of rights to use musical works and sound recordings
+320,C331,COMMODITY,Advertising air time on radio
+321,C332,COMMODITY,Advertising air time on television
+322,C333,COMMODITY,Fees for the distribution of television and radio program channels (affiliation payments)
+323,C334,COMMODITY,Fixed telecommunications services (except Internet access)
+324,C335,COMMODITY,Mobile telecommunications services
+325,C336,COMMODITY,"Cable, satellite and other program distribution services"
+326,C337,COMMODITY,Fixed Internet access services
+327,C338,COMMODITY,"Data processing, hosting, and related services"
+328,C339,COMMODITY,Subscriptions for online content
+329,C340,COMMODITY,Internet advertising
+330,C341,COMMODITY,Other information services
+331,C342,COMMODITY,Central banking services
+332,C343,COMMODITY,Local credit union services - explicit charges (fees)
+333,C344,COMMODITY,Banking and other depository credit intermediation services - explicit charges
+334,C345,COMMODITY,Non-depository credit intermediation services - explicit charges (fees)
+335,C346,COMMODITY,Other services related to credit intermediation
+336,C347,COMMODITY,Investment banking services
+337,C348,COMMODITY,Security brokerage and securities dealing services
+338,C349,COMMODITY,Portfolio management services
+339,C350,COMMODITY,Investment counselling services
+340,C351,COMMODITY,Holding company services and other financial investment and related activities
+341,C352,COMMODITY,Life insurance services
+342,C353,COMMODITY,Accident and sickness insurance services
+343,C354,COMMODITY,Automotive insurance services
+344,C355,COMMODITY,Property insurance services
+345,C356,COMMODITY,Liability and other property and casualty insurance services
+346,C357,COMMODITY,Brokerage and other insurance related services
+347,C358,COMMODITY,Trusteed pension fund services
+348,C359,COMMODITY,Mutual funds (cost of service) and other similar services
+349,C360,COMMODITY,Deposit intermediation services indirectly measured (FISIM)
+350,C361,COMMODITY,Residential mortgage intermediation services indirectly measured (FISIM)
+351,C362,COMMODITY,Other loan intermediation services indirectly measured (FISIM)
+352,C363,COMMODITY,Rental of residential real estate
+353,C364,COMMODITY,Rental of non-residential real estate
+354,C365,COMMODITY,Imputed rental of owner-occupied dwellings
+355,C366,COMMODITY,Real estate brokerage and other services related to real estate
+356,C367,COMMODITY,Motor vehicle rental and leasing services
+357,C368,COMMODITY,Computer equipment rental and leasing services
+358,C369,COMMODITY,Office machinery and equipment (except computer equipment) rental and leasing services
+359,C370,COMMODITY,Commercial and industrial machinery and equipment (except office equipment) rental and leasing services
+360,C371,COMMODITY,Rental and leasing services of other goods
+361,C372,COMMODITY,Licensing of rights to non-financial produced intangible assets (except software and other copyright licensing)
+362,C373,COMMODITY,Legal services
+363,C374,COMMODITY,"Accounting, tax preparation, bookkeeping and payroll services"
+364,C375,COMMODITY,"Architectural, engineering and related services"
+365,C376,COMMODITY,Specialized design services
+366,C377,COMMODITY,Custom software design and development services
+367,C378,COMMODITY,Own-account software design and development services
+368,C379,COMMODITY,Computer systems design and related services (except software development)
+369,C380,COMMODITY,"Management, scientific and technical consulting services"
+370,C381,COMMODITY,Research and development services
+371,C382,COMMODITY,Own-account research and development (except software development)
+372,C383,COMMODITY,"Advertising, public relations and related services"
+373,C384,COMMODITY,Photographic services
+374,C385,COMMODITY,Veterinary services
+375,C386,COMMODITY,"Other professional, scientific and technical services"
+376,C387,COMMODITY,Holding company services (imputed)
+377,C388,COMMODITY,Head office services (imputed)
+378,C389,COMMODITY,Office administrative services
+379,C390,COMMODITY,Employment services
+380,C391,COMMODITY,Business support services
+381,C392,COMMODITY,"Travel arrangement, reservation and planning services"
+382,C393,COMMODITY,Investigation and security services
+383,C394,COMMODITY,Services to buildings and dwellings
+384,C395,COMMODITY,Facilities and other support services
+385,C396,COMMODITY,Waste management and remediation services
+386,C397,COMMODITY,Tuition and similar fees for elementary and secondary schools
+387,C398,COMMODITY,Tuition and similar fees for colleges and C.E.G.E.P.s
+388,C399,COMMODITY,Tuition and similar fees for universities
+389,C400,COMMODITY,"Tuition and similar fees for trade, technical and professional training"
+390,C401,COMMODITY,Other educational training and services
+391,C402,COMMODITY,Physician services
+392,C403,COMMODITY,Dental services
+393,C404,COMMODITY,Other health practitioner services
+394,C405,COMMODITY,Medical laboratory diagnostic and testing services
+395,C406,COMMODITY,Ambulance services
+396,C407,COMMODITY,Hospital services
+397,C408,COMMODITY,Nursing and residential care services
+398,C409,COMMODITY,Child day-care services
+399,C410,COMMODITY,Other ambulatory health care services and social assistance services
+400,C411,COMMODITY,Admissions to live sporting events
+401,C412,COMMODITY,Admissions to live performing arts performances
+402,C413,COMMODITY,Sport and performing arts event organization and support services
+403,C414,COMMODITY,Career management and representation services of public figures
+404,C415,COMMODITY,"Contract production of live performing arts performances, live sporting events and copyrighted works"
+405,C416,COMMODITY,Licensing of rights to use copyrighted works and media rights
+406,C417,COMMODITY,Technical artistic services
+407,C418,COMMODITY,Heritage institution services
+408,C419,COMMODITY,Amusement and recreation services
+409,C420,COMMODITY,Gambling (net wagers)
+410,C421,COMMODITY,Room or unit accommodation services for travellers
+411,C422,COMMODITY,Recreational vehicle park and recreational camp services
+412,C423,COMMODITY,Rooming and boarding services
+413,C424,COMMODITY,Prepared meals
+414,C425,COMMODITY,Alcoholic beverages for immediate consumption
+415,C426,COMMODITY,Motor vehicle repair and maintenance services
+416,C427,COMMODITY,Repair and maintenance services (except for buildings and motor vehicles)
+417,C428,COMMODITY,Funeral services
+418,C429,COMMODITY,Laundry and dry-cleaning services
+419,C430,COMMODITY,Hair care and aesthetic services
+420,C431,COMMODITY,Parking services
+421,C432,COMMODITY,Other personal and personal care services
+422,C433,COMMODITY,Other membership services
+423,C434,COMMODITY,Babysitting services
+424,C435,COMMODITY,Private household services (except babysitting)
+425,C436,COMMODITY,Sales of other services by Non-Profit Institutions Serving Households
+426,C437,COMMODITY,Sales of other government services
+427,C438,COMMODITY,Repair and maintenance
+428,C439,COMMODITY,Operating supplies
+429,C440,COMMODITY,Office supplies
+430,C441,COMMODITY,"Advertising, promotion, meals and entertainment"
+431,C442,COMMODITY,"Travel, meetings and conventions"
+432,C443,COMMODITY,Transportation margins
+433,C444,COMMODITY,Educational services provided by Non-Profit Institutions Serving Households
+434,C445,COMMODITY,Ambulatory health care services provided by Non-Profit Institutions Serving Households
+435,C446,COMMODITY,Social assistance services provided by Non-Profit Institutions Serving Households
+436,C447,COMMODITY,"Arts, entertainment and recreation services provided by Non-Profit Institutions Serving Households"
+437,C448,COMMODITY,Religious services
+438,C449,COMMODITY,"Grant-making, civic, and professional and similar organization services"
+439,C450,COMMODITY,Labour organization membership services
+440,C451,COMMODITY,Political organization services
+441,C452,COMMODITY,Other services provided by Non-Profit Institutions Serving Households
+442,C453,COMMODITY,Elementary and secondary school services provided by governments
+443,C454,COMMODITY,Community college and C.E.G.E.P services provided by governments
+444,C455,COMMODITY,University services provided by governments
+445,C456,COMMODITY,Other educational services provided by governments
+446,C457,COMMODITY,Hospital services provided by governments
+447,C458,COMMODITY,Residential care facility services provided by governments
+448,C459,COMMODITY,Defence services
+449,C460,COMMODITY,Other federal government services
+450,C461,COMMODITY,Other provincial and territorial government services
+451,C462,COMMODITY,Other municipal government services
+452,C463,COMMODITY,Other aboriginal government services
+453,C473,COMMODITY,Copper ores and concentrates
+454,C474,COMMODITY,Nickel ores and concentrates
+455,C475,COMMODITY,Lead and zinc ores and concentrates
+456,C476,COMMODITY,Radioactive ores and concentrates
+457,C477,COMMODITY,Other metal ores and concentrates
+458,C478,COMMODITY,"Stemmed, redried or reconstituted tobacco"
+459,C479,COMMODITY,"Cigarettes, cigars, chewing and smoking tobacco"
+460,C480,COMMODITY,Lubricants and other petroleum refinery products
+461,C481,COMMODITY,Other petroleum and coal products
+462,C482,COMMODITY,Bauxite and aluminum oxide
+463,C483,COMMODITY,Unwrought aluminum including alloys
+464,C484,COMMODITY,Unwrought copper including alloys
+465,C485,COMMODITY,Unwrought nickel including alloys
+466,C486,COMMODITY,Unwrought precious metals including alloys
+467,C487,COMMODITY,Other unwrought non-ferrous metals including alloys
+468,C488,COMMODITY,"Gold, store of value"
+469,C489,COMMODITY,Aircraft
+470,C490,COMMODITY,Aircraft engines
+471,C491,COMMODITY,Postal services
+472,C492,COMMODITY,"Courier, parcel, and local messenger and delivery services"
+473,C493,COMMODITY,Fresh fruits and nuts
+474,C494,COMMODITY,Other miscellaneous crop products
+475,C495,COMMODITY,Conventional crude oil
+476,C496,COMMODITY,Synthetic crude oil
+477,C497,COMMODITY,Non-metallic minerals (except diamonds)
+478,C498,COMMODITY,Flour and other grain mill products
+479,C499,COMMODITY,"Grain and oilseed products, n.e.c."
+480,C500,COMMODITY,Prefabricated wood and manufactured (mobile) buildings and components
+481,C501,COMMODITY,"Wood products, n.e.c."
+482,C502,COMMODITY,Lubricants and other petroleum refinery products
+483,C503,COMMODITY,"Solid fuel products, n.e.c."
+484,C504,COMMODITY,Other basic inorganic chemicals
+485,C505,COMMODITY,Forged and stamped metal products
+486,C506,COMMODITY,Other architectural metal products
+487,C507,COMMODITY,"Fabricated metal products, n.e.c."
+488,C508,COMMODITY,"Computers, computer peripherals and parts"
+489,C509,COMMODITY,Medical devices
+490,C510,COMMODITY,"Measuring, control and scientific instruments"
+491,C511,COMMODITY,Small electric appliances
+492,C512,COMMODITY,Major appliances
+493,C513,COMMODITY,Office furniture
+494,C514,COMMODITY,Office and store fixtures
+495,C515,COMMODITY,Wholesale margins - farm products
+496,C516,COMMODITY,Wholesale margins - petroleum and petroleum products
+497,C517,COMMODITY,"Wholesale margins - food, beverages and tobacco products"
+498,C518,COMMODITY,Wholesale margins - personal and household goods
+499,C519,COMMODITY,"Wholesale margins - motor vehicles, motor vehicle parts and accessories"
+500,C520,COMMODITY,Wholesale margins - building materials and supplies
+501,C521,COMMODITY,"Wholesale margins - machinery, equipment and supplies"
+502,C522,COMMODITY,Wholesale margins - miscellaneous products
+503,C523,COMMODITY,Retail margins - motor vehicles and parts
+504,C524,COMMODITY,Retail margins - furniture and home furnishings
+505,C525,COMMODITY,Retail margins - electronics and appliances
+506,C526,COMMODITY,"Retail margins - building materials, garden equipment and supplies"
+507,C527,COMMODITY,Retail margins - food and beverages
+508,C528,COMMODITY,Retail margins - health and personal care products
+509,C529,COMMODITY,Retail margins - automotive fuels
+510,C530,COMMODITY,Retail margins - clothing and clothing accessories
+511,C531,COMMODITY,Retail margins - sporting and leisure products
+512,C532,COMMODITY,Retail margins - miscellaneous products
+513,C533,COMMODITY,Retail margins - household fuels
+514,C534,COMMODITY,Truck transportation services for general freight
+515,C535,COMMODITY,Truck transportation services for specialized freight
+516,C536,COMMODITY,Licensing of rights to use literary works and artistic works (except software licensing)
+517,C537,COMMODITY,Other information services
+518,C538,COMMODITY,Broadcast and other media rights
+519,C539,COMMODITY,"Cannabis plants, seeds and flowering tops"
+520,C540,COMMODITY,"Cannabis products (except plants, seeds and flowering tops)"
+521,C541,COMMODITY,Retail margins - miscellaneous products (except cannabis)
+522,C542,COMMODITY,Retail margins - cannabis products (licensed)
+523,C543,COMMODITY,Retail margins - cannabis products (unlicensed)
+524,MRG_TRD,MARGIN,Trade margins
+525,MRG_TNS,MARGIN,"Transportation, gas and storage margins"
+526,I009,INDUSTRY,"Crop production (except cannabis, greenhouse, nursery and floriculture production)"
+527,I010,INDUSTRY,"Greenhouse, nursery and floriculture production"
+528,I011,INDUSTRY,Animal production (except aquaculture)
+529,I012,INDUSTRY,Aquaculture
+530,I013,INDUSTRY,Forestry and logging
+531,I014,INDUSTRY,"Fishing, hunting and trapping"
+532,I015,INDUSTRY,Support activities for crop and animal production
+533,I016,INDUSTRY,Support activities for forestry
+534,I017,INDUSTRY,Conventional oil and gas extraction
+535,I018,INDUSTRY,Non-conventional oil extraction
+536,I019,INDUSTRY,Coal mining
+537,I020,INDUSTRY,Iron ore mining
+538,I021,INDUSTRY,Gold and silver ore mining
+539,I022,INDUSTRY,"Copper, nickel, lead and zinc ore mining"
+540,I023,INDUSTRY,Other metal ore mining
+541,I024,INDUSTRY,Stone mining and quarrying
+542,I025,INDUSTRY,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying"
+543,I026,INDUSTRY,Diamond mining
+544,I027,INDUSTRY,Other non-metallic mineral mining and quarrying (except diamond and potash)
+545,I028,INDUSTRY,Potash mining
+546,I029,INDUSTRY,Support activities for oil and gas extraction
+547,I030,INDUSTRY,Support activities for mining
+548,I031,INDUSTRY,"Electric power generation, transmission and distribution"
+549,I032,INDUSTRY,Natural gas distribution
+550,I033,INDUSTRY,"Water, sewage and other systems"
+551,I034,INDUSTRY,Residential building construction
+552,I035,INDUSTRY,Non-residential building construction
+553,I036,INDUSTRY,Transportation engineering construction
+554,I037,INDUSTRY,Oil and gas engineering construction
+555,I038,INDUSTRY,Electric power engineering construction
+556,I039,INDUSTRY,Communication engineering construction
+557,I040,INDUSTRY,Other engineering construction
+558,I041,INDUSTRY,Repair construction
+559,I042,INDUSTRY,Other activities of the construction industry
+560,I043,INDUSTRY,Animal food manufacturing
+561,I044,INDUSTRY,Grain and oilseed milling
+562,I045,INDUSTRY,Sugar and confectionery product manufacturing
+563,I046,INDUSTRY,Fruit and vegetable preserving and specialty food manufacturing
+564,I047,INDUSTRY,Dairy product manufacturing
+565,I048,INDUSTRY,Meat product manufacturing
+566,I049,INDUSTRY,Seafood product preparation and packaging
+567,I050,INDUSTRY,Bakeries and tortilla manufacturing
+568,I051,INDUSTRY,Other food manufacturing
+569,I052,INDUSTRY,Soft drink and ice manufacturing
+570,I053,INDUSTRY,Breweries
+571,I054,INDUSTRY,Wineries and distilleries
+572,I055,INDUSTRY,Tobacco manufacturing
+573,I056,INDUSTRY,Textile and textile product mills
+574,I057,INDUSTRY,Clothing and leather and allied product manufacturing
+575,I058,INDUSTRY,Sawmills and wood preservation
+576,I059,INDUSTRY,"Veneer, plywood and engineered wood product manufacturing"
+577,I060,INDUSTRY,Other wood product manufacturing
+578,I061,INDUSTRY,"Pulp, paper and paperboard mills"
+579,I062,INDUSTRY,Converted paper product manufacturing
+580,I063,INDUSTRY,Printing and related support activities
+581,I064,INDUSTRY,Petroleum refineries
+582,I065,INDUSTRY,Petroleum and coal product manufacturing (except petroleum refineries)
+583,I066,INDUSTRY,Basic chemical manufacturing
+584,I068,INDUSTRY,"Pesticide, fertilizer and other agricultural chemical manufacturing"
+585,I069,INDUSTRY,Pharmaceutical and medicine manufacturing
+586,I070,INDUSTRY,"Soap, cleaning compound and toilet preparation manufacturing"
+587,I071,INDUSTRY,Other chemical product manufacturing
+588,I072,INDUSTRY,Plastic product manufacturing
+589,I073,INDUSTRY,Rubber product manufacturing
+590,I074,INDUSTRY,Non-metallic mineral product manufacturing (except cement and concrete products)
+591,I075,INDUSTRY,Cement and concrete product manufacturing
+592,I076,INDUSTRY,Iron and steel mills and ferro-alloy manufacturing
+593,I077,INDUSTRY,Steel product manufacturing from purchased steel
+594,I078,INDUSTRY,Alumina and aluminum production and processing
+595,I079,INDUSTRY,Non-ferrous metal (except aluminum) production and processing
+596,I080,INDUSTRY,Foundries
+597,I081,INDUSTRY,Forging and stamping
+598,I082,INDUSTRY,"Cutlery, hand tools and other fabricated metal product manufacturing"
+599,I083,INDUSTRY,Architectural and structural metals manufacturing
+600,I084,INDUSTRY,"Boiler, tank and shipping container manufacturing"
+601,I085,INDUSTRY,Hardware manufacturing
+602,I086,INDUSTRY,Spring and wire product manufacturing
+603,I087,INDUSTRY,"Machine shops, turned product, and screw, nut and bolt manufacturing"
+604,I088,INDUSTRY,"Coating, engraving, cold and heat treating and allied activities"
+605,I089,INDUSTRY,"Agricultural, construction and mining machinery manufacturing"
+606,I090,INDUSTRY,Industrial machinery manufacturing
+607,I091,INDUSTRY,Commercial and service industry machinery manufacturing
+608,I092,INDUSTRY,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing"
+609,I093,INDUSTRY,Metalworking machinery manufacturing
+610,I094,INDUSTRY,"Engine, turbine and power transmission equipment manufacturing"
+611,I095,INDUSTRY,Other general-purpose machinery manufacturing
+612,I096,INDUSTRY,Computer and peripheral equipment manufacturing
+613,I097,INDUSTRY,Communications equipment manufacturing
+614,I098,INDUSTRY,Other electronic product manufacturing
+615,I099,INDUSTRY,Semiconductor and other electronic component manufacturing
+616,I100,INDUSTRY,Electric lighting equipment manufacturing
+617,I101,INDUSTRY,Household appliance manufacturing
+618,I102,INDUSTRY,Electrical equipment manufacturing
+619,I103,INDUSTRY,Other electrical equipment and component manufacturing
+620,I104,INDUSTRY,Automobile and light-duty motor vehicle manufacturing
+621,I105,INDUSTRY,Heavy-duty truck manufacturing
+622,I106,INDUSTRY,Motor vehicle body and trailer manufacturing
+623,I107,INDUSTRY,Motor vehicle gasoline engine and engine parts manufacturing
+624,I108,INDUSTRY,Motor vehicle electrical and electronic equipment manufacturing
+625,I109,INDUSTRY,Motor vehicle steering and suspension components (except spring) manufacturing
+626,I110,INDUSTRY,Motor vehicle brake system manufacturing
+627,I111,INDUSTRY,Motor vehicle transmission and power train parts manufacturing
+628,I112,INDUSTRY,Motor vehicle seating and interior trim manufacturing
+629,I113,INDUSTRY,Motor vehicle metal stamping
+630,I114,INDUSTRY,Other motor vehicle parts manufacturing
+631,I115,INDUSTRY,Aerospace product and parts manufacturing
+632,I116,INDUSTRY,Railroad rolling stock manufacturing
+633,I117,INDUSTRY,Ship and boat building
+634,I118,INDUSTRY,Other transportation equipment manufacturing
+635,I119,INDUSTRY,Household and institutional furniture and kitchen cabinet manufacturing
+636,I120,INDUSTRY,Office furniture (including fixtures) manufacturing
+637,I121,INDUSTRY,Other furniture-related product manufacturing
+638,I122,INDUSTRY,Medical equipment and supplies manufacturing
+639,I123,INDUSTRY,Other miscellaneous manufacturing
+640,I124,INDUSTRY,Farm product merchant wholesalers
+641,I125,INDUSTRY,Petroleum and petroleum products merchant wholesalers
+642,I126,INDUSTRY,"Food, beverage and tobacco merchant wholesalers"
+643,I127,INDUSTRY,Personal and household goods merchant wholesalers
+644,I128,INDUSTRY,Motor vehicle and motor vehicle parts and accessories merchant wholesalers
+645,I129,INDUSTRY,Building material and supplies merchant wholesalers
+646,I130,INDUSTRY,"Machinery, equipment and supplies merchant wholesalers"
+647,I131,INDUSTRY,Miscellaneous merchant wholesalers
+648,I132,INDUSTRY,"Business-to-business electronic markets, and agents and brokers"
+649,I133,INDUSTRY,Motor vehicle and parts dealers
+650,I134,INDUSTRY,Furniture and home furnishings stores
+651,I135,INDUSTRY,Electronics and appliance stores
+652,I136,INDUSTRY,Building material and garden equipment and supplies dealers
+653,I137,INDUSTRY,Food and beverage stores
+654,I138,INDUSTRY,Health and personal care stores
+655,I139,INDUSTRY,Gasoline stations
+656,I140,INDUSTRY,Clothing and clothing accessories stores
+657,I141,INDUSTRY,"Sporting goods, hobby, book and music stores"
+658,I142,INDUSTRY,General merchandise stores
+659,I143,INDUSTRY,Miscellaneous store retailers
+660,I144,INDUSTRY,Non-store retailers
+661,I145,INDUSTRY,Air transportation
+662,I146,INDUSTRY,Rail transportation
+663,I147,INDUSTRY,Water transportation
+664,I148,INDUSTRY,Truck transportation
+665,I149,INDUSTRY,Urban transit systems
+666,I150,INDUSTRY,Other transit and ground passenger transportation and scenic and sightseeing transportation
+667,I151,INDUSTRY,Taxi and limousine service
+668,I152,INDUSTRY,Crude oil and other pipeline transportation
+669,I153,INDUSTRY,Pipeline transportation of natural gas
+670,I154,INDUSTRY,Support activities for transportation
+671,I156,INDUSTRY,Warehousing and storage
+672,I157,INDUSTRY,Newspaper publishers
+673,I158,INDUSTRY,"Periodical, book and directory publishers"
+674,I159,INDUSTRY,Software publishers
+675,I160,INDUSTRY,Motion picture and video industries (except exhibition)
+676,I161,INDUSTRY,Motion picture and video exhibition
+677,I162,INDUSTRY,Sound recording industries
+678,I163,INDUSTRY,Radio and television broadcasting
+679,I164,INDUSTRY,Pay and specialty television
+680,I165,INDUSTRY,Telecommunications
+681,I166,INDUSTRY,"Data processing, hosting, and related services"
+682,I167,INDUSTRY,Other information services
+683,I168,INDUSTRY,Monetary authorities - central bank
+684,I169,INDUSTRY,Banking and other depository credit intermediation
+685,I170,INDUSTRY,Local credit unions
+686,I171,INDUSTRY,Non-depository credit intermediation
+687,I172,INDUSTRY,Activities related to credit intermediation
+688,I173,INDUSTRY,"Financial investment services, funds and other financial vehicles"
+689,I174,INDUSTRY,Insurance carriers
+690,I175,INDUSTRY,"Agencies, brokerages and other insurance related activities"
+691,I176,INDUSTRY,Lessors of real estate
+692,I177,INDUSTRY,Offices of real estate agents and brokers and activities related to real estate
+693,I178,INDUSTRY,Owner-occupied dwellings
+694,I179,INDUSTRY,Automotive equipment rental and leasing
+695,I180,INDUSTRY,Rental and leasing services (except automotive equipment)
+696,I181,INDUSTRY,Lessors of non-financial intangible assets (except copyrighted works)
+697,I182,INDUSTRY,Legal services
+698,I183,INDUSTRY,"Accounting, tax preparation, bookkeeping and payroll services"
+699,I184,INDUSTRY,"Architectural, engineering and related services"
+700,I185,INDUSTRY,Specialized design services
+701,I186,INDUSTRY,Computer systems design and related services
+702,I187,INDUSTRY,"Management, scientific and technical consulting services"
+703,I188,INDUSTRY,Scientific research and development services
+704,I189,INDUSTRY,"Advertising, public relations, and related services"
+705,I190,INDUSTRY,"Other professional, scientific and technical services"
+706,I191,INDUSTRY,Holding companies
+707,I192,INDUSTRY,Office administrative services
+708,I193,INDUSTRY,Facilities and other support services
+709,I194,INDUSTRY,Employment services
+710,I195,INDUSTRY,Business support services
+711,I196,INDUSTRY,Travel arrangement and reservation services
+712,I197,INDUSTRY,Investigation and security services
+713,I198,INDUSTRY,Services to buildings and dwellings
+714,I199,INDUSTRY,Waste management and remediation services
+715,I200,INDUSTRY,Educational services
+716,I201,INDUSTRY,Offices of physicians
+717,I202,INDUSTRY,Offices of dentists
+718,I203,INDUSTRY,Miscellaneous ambulatory health care services
+719,I204,INDUSTRY,Nursing and residential care facilities
+720,I205,INDUSTRY,Social assistance
+721,I206,INDUSTRY,"Performing arts, spectator sports and related industries, and heritage institutions"
+722,I207,INDUSTRY,Amusement and recreation industries
+723,I208,INDUSTRY,Gambling industries
+724,I209,INDUSTRY,Traveller accommodation
+725,I210,INDUSTRY,"Recreational vehicle (RV) parks, recreational camps, and rooming and boarding houses"
+726,I211,INDUSTRY,Food services and drinking places
+727,I212,INDUSTRY,Automotive repair and maintenance
+728,I213,INDUSTRY,Repair and maintenance (except automotive)
+729,I214,INDUSTRY,Personal care services and other personal services
+730,I215,INDUSTRY,Funeral services
+731,I216,INDUSTRY,Dry cleaning and laundry services
+732,I217,INDUSTRY,"Business, professional and other membership organizations"
+733,I218,INDUSTRY,Private households
+734,I219,INDUSTRY,Repair and maintenance
+735,I220,INDUSTRY,Operating supplies
+736,I221,INDUSTRY,Office supplies
+737,I222,INDUSTRY,"Advertising, promotion, meals and entertainment"
+738,I223,INDUSTRY,"Travel, meetings and conventions"
+739,I224,INDUSTRY,Transportation margins
+740,I225,INDUSTRY,Educational services
+741,I226,INDUSTRY,Ambulatory health care services
+742,I227,INDUSTRY,Social assistance
+743,I228,INDUSTRY,"Arts, entertainment and recreation"
+744,I229,INDUSTRY,Religious organizations
+745,I230,INDUSTRY,"Grant-making, civic, and professional and similar organizations"
+746,I231,INDUSTRY,Other non-profit institutions serving households
+747,I232,INDUSTRY,Elementary and secondary schools
+748,I233,INDUSTRY,Community colleges and C.E.G.E.P.s
+749,I234,INDUSTRY,Universities
+750,I235,INDUSTRY,Other educational services
+751,I236,INDUSTRY,Hospitals
+752,I237,INDUSTRY,Nursing and residential care facilities
+753,I238,INDUSTRY,Defence services
+754,I239,INDUSTRY,Other federal government services (except defence)
+755,I240,INDUSTRY,Other provincial and territorial government services
+756,I241,INDUSTRY,Other municipal government services
+757,I242,INDUSTRY,Other aboriginal government services
+758,I519,INDUSTRY,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing"
+759,I520,INDUSTRY,"Paint, coating and adhesive manufacturing"
+760,I521,INDUSTRY,Postal service
+761,I522,INDUSTRY,Couriers and messengers
+762,I539,INDUSTRY,"Greenhouse, nursery and floriculture production (except cannabis)"
+763,I540,INDUSTRY,Cannabis production (licensed)
+764,I541,INDUSTRY,Cannabis production (unlicensed)
+765,I542,INDUSTRY,Oil and gas extraction (except oil sands)
+766,I543,INDUSTRY,Oil sands extraction
+767,I544,INDUSTRY,Miscellaneous store retailers (except cannabis)
+768,I545,INDUSTRY,Cannabis stores (licensed)
+769,I546,INDUSTRY,Cannabis stores (unlicensed)
+770,P1000,FACTOR,Taxes on products
+771,P2000,FACTOR,Subsidies on products
+772,P3000,FACTOR,Subsidies on production
+773,P4000,FACTOR,Taxes on production
+774,P5000,FACTOR,Wages and salaries
+775,P6000,FACTOR,Employers social contributions
+776,P7000,FACTOR,Gross mixed income
+777,P8000,FACTOR,Gross operating surplus
+778,HH1,AGENT,Households primary income
+779,NPSH1,AGENT,Non-profit institutions serving households primary income
+780,CORP1,AGENT,Corporations primary income
+781,GOV1,AGENT,General government primary income
+782,HH2,AGENT,Households secondary distribution of income
+783,NPSH2,AGENT,Non-profit institutions serving households secondary distribution of income
+784,CORP2,AGENT,Corporations secondary distribution of income
+785,GOV2,AGENT,General government secondary distribution of income
+786,HH3,AGENT,Households disposable income
+787,NPSH3,AGENT,Non-profit institutions serving households disposable income
+788,CORP3,AGENT,Corporations disposable income
+789,GOV3,AGENT,General government disposable income
+790,HH_CAP,AGENTCAP,Households capital account
+791,NPSH_CAP,AGENTCAP,Non-profit institutions serving households capital account
+792,CORP_CAP,AGENTCAP,Corporations capital account
+793,GOV_CAP,AGENTCAP,General government capital account
+794,GFCF_HH,GFCF,"Construction, residential structures"
+795,GFCF_001,GFCF,Crop production
+796,GFCF_002,GFCF,Animal production
+797,GFCF_003,GFCF,Forestry and logging
+798,GFCF_004,GFCF,"Fishing, hunting and trapping"
+799,GFCF_005,GFCF,Support activities for agriculture and forestry
+800,GFCF_006,GFCF,Oil and gas extraction (except oil sands)
+801,GFCF_007,GFCF,Oil sands extraction
+802,GFCF_008,GFCF,Mining and quarrying (except oil and gas)
+803,GFCF_009,GFCF,"Support activities for mining, and oil and gas extraction"
+804,GFCF_010,GFCF,Utilities
+805,GFCF_011,GFCF,Construction
+806,GFCF_012,GFCF,Food manufacturing
+807,GFCF_013,GFCF,Beverage and tobacco product manufacturing
+808,GFCF_014,GFCF,Textile and textile product mills
+809,GFCF_015,GFCF,Clothing and leather and allied product manufacturing
+810,GFCF_016,GFCF,Wood product manufacturing
+811,GFCF_017,GFCF,Paper manufacturing
+812,GFCF_018,GFCF,Printing and related support activities
+813,GFCF_019,GFCF,Petroleum and coal product manufacturing
+814,GFCF_020,GFCF,Chemical manufacturing
+815,GFCF_021,GFCF,Plastics and rubber products manufacturing
+816,GFCF_022,GFCF,Non-metallic mineral product manufacturing
+817,GFCF_023,GFCF,Primary metal manufacturing
+818,GFCF_024,GFCF,Fabricated metal product manufacturing
+819,GFCF_025,GFCF,Machinery manufacturing
+820,GFCF_026,GFCF,Computer and electronic product manufacturing
+821,GFCF_027,GFCF,"Electrical equipment, appliance and component manufacturing"
+822,GFCF_028,GFCF,Transportation equipment manufacturing
+823,GFCF_029,GFCF,Furniture and related product manufacturing
+824,GFCF_030,GFCF,Miscellaneous manufacturing
+825,GFCF_031,GFCF,Wholesale trade
+826,GFCF_032,GFCF,Retail trade
+827,GFCF_033,GFCF,Transportation and warehousing
+828,GFCF_034,GFCF,Information and cultural industries
+829,GFCF_035,GFCF,Finance and insurance
+830,GFCF_036,GFCF,Real estate and rental and leasing
+831,GFCF_037,GFCF,"Professional, scientific and technical services"
+832,GFCF_038,GFCF,Holding companies
+833,GFCF_039,GFCF,"Administrative and support, waste management and remediation services"
+834,GFCF_040,GFCF,Educational services
+835,GFCF_041,GFCF,Health care and social assistance
+836,GFCF_042,GFCF,"Arts, entertainment and recreation"
+837,GFCF_043,GFCF,Accommodation and food services
+838,GFCF_044,GFCF,Other services
+839,GFCF_045,GFCF,Non-profit institutions serving households
+840,GFCF_046,GFCF,"Governments, educational services"
+841,GFCF_047,GFCF,"Governments, hospitals"
+842,GFCF_048,GFCF,"Governments, nursing and residential care facilities"
+843,GFCF_049,GFCF,"Governments, defence services"
+844,GFCF_050,GFCF,"Governments, other federal government services (except defence)"
+845,GFCF_051,GFCF,"Governments, other provincial and territorial government services"
+846,GFCF_052,GFCF,"Governments, other municipal government services"
+847,GFCF_053,GFCF,"Governments, other aboriginal government services"
+848,INV,INVENTORY,Inventories
+849,INT_RES,FINANCIAL,Official international reserves
+850,CUR_DEPO,FINANCIAL,Total currency and deposits
+851,DEBT_SEC,FINANCIAL,Debt securities
+852,LOANS,FINANCIAL,Loans
+853,INV_FUN,FINANCIAL,Equity and investment funds
+854,PENSIONS,FINANCIAL,Life insurance and pensions
+855,OTHERS,FINANCIAL,Other accounts
+856,RoW,ROW,Rest of the world
