@@ -15,5 +15,5 @@ In total, there are 857 accounts and their aggregation is the most granular avai
 
 The balancing of tables is done using linear programming, which modifies the inter-agent transfers so that all of the accounts are balanced, so there is minimal table intervention. The procedure and code for creating these tables will be posted later on.
 
-A high-level diagram of how these accounts relate to each other is the following:
+A high-level diagram of how these accounts relate to each other and the number of accounts in each macro-acount is shown here:
 ![image](https://github.com/jorge-antares/SAMCanada/blob/main/img/diagram.png?raw=true)
