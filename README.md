@@ -1,5 +1,5 @@
 # SAM - Canada #
-These Social Accounting Matrices (SAM) were created following the System of National Accounts of Canada and from the following Statistics Canada sources:
+These Social Accounting Matrices (SAM) were created from the following Statistics Canada sources:
 * Table 36-10-0111-01: Current and capital accounts - National, Canada, quarterly, 1961-2020.
 * Table 36-10-0112-01: Current and capital accounts - Households, Canada, quarterly, 1961-2020.
 * Table 36-10-0114-01: Compensation of employees, Canada, quarterly, 1961-2020.
@@ -11,8 +11,9 @@ These Social Accounting Matrices (SAM) were created following the System of Nati
 * Table 36-10-0438-01: Supply and use tables, summary level, provincial and territorial, 2010-2016.
 * Table 36-10-0578-01: Financial Flow Accounts, 1990-2020.
 
-The aggregation of accounts is the most granular available, which is the **detail level**.
+In total, there are 857 accounts and their aggregation is the most granular available, which is the **detail level**.
 
-The balancing of tables is done using linear programming.
+The balancing of tables is done using linear programming, which modifies the inter-agent transfers so that all of the accounts are balanced. The procedure code for creating these table will be posted later on.
 
+A high-level diagram of how these accounts relate to each other is the following:
 ![image](https://github.com/jorge-antares/SAMCanada/blob/main/img/diagram.png?raw=true)
